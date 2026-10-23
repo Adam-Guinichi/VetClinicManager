@@ -1,0 +1,4 @@
+﻿IF EXISTS (SELECT * FROM sys.objects WHERE name = 'UQ_Consulta_42459944EE8216C4' AND type = 'UQ')
+BEGIN
+    ALTER TABLE Consultation DROP CONSTRAINT [UQ_Consulta_42459944EE8216C4];
+END

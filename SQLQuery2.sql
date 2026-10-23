@@ -1,0 +1,2 @@
+-- Create administrator accounts through the application's user management flow.
+-- Do not store default credentials in a seed script.
